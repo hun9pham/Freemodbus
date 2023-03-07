@@ -1,0 +1,8 @@
+-------------------------------
+| Log message request comming |
+-------------------------------
+[Mon Aug 15 16:43:28 2022] id: 1, baud-rate: 9600, port: /dev/ttyUSB0, bit-parity: 0
+	. Mode: Read
+	. Reg address: 40044
+	. Reg index: 44
+	. Reg value: 30
